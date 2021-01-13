@@ -8,11 +8,12 @@
 # Dapper  --- > Class libarary .Net Core
 # DataDTO --- >  Class Libarary .Net Core
 
-# Technology I used,
-
+------------------------------------------------------------------
+# Technology I used 
 # SQL Dapper
 # AutoMapper
 # swagger
 # JWT TOken
 # Claims
 # DI 
+--------------------------------
